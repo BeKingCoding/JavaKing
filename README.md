@@ -25,7 +25,7 @@
 
 # 《Offer收割机》目录（持续更新...）
 
-- Java核心
+- [Java核心](https://github.com/BeKingCoding/JavaKing/tree/master/coreJava)
   - [串行、并行、并发，别再傻傻分不清了！](https://mp.weixin.qq.com/s/BSXY6fpaSK6xQhmKrNkd1w)
   - [这是一篇硬核 AOP 解说！](https://mp.weixin.qq.com/s/ZlN9-FvljYemdzYKmbV3pg)
   - [大白话设计模式七大原则](https://mp.weixin.qq.com/s/7DqrhQfFPVM_xKdnvLBGZQ)
@@ -35,11 +35,14 @@
   - [还在纠结秒杀？看看 MQ 如何搞定](https://mp.weixin.qq.com/s/d_C9ghYnkQ11dL33IxAYaQ)
  
 
-- 数据库
+- [数据库](https://github.com/BeKingCoding/JavaKing/tree/master/MySQL)
   - [MySQL数据引擎，12缸就是猛！](https://mp.weixin.qq.com/s/useH8SiOUng3nu-V4X8Ykw)
   - [MySQL是如何实现主从备份的？](https://mp.weixin.qq.com/s/3TPbjv_uGSvhWmtAjcLr8g)
   - [如何实现MySQL数据库的读写分离？](https://mp.weixin.qq.com/s/Flxr2_XmH1opzRr0LPUCSg)
   - [数据库锁机制为什么很重要？](https://mp.weixin.qq.com/s/GehUBwkweXhANomMw9GFOg)
+
+- [系统设计](https://github.com/BeKingCoding/JavaKing/tree/master/design)
+  - [四种经典限流算法，确保不溢出！](https://mp.weixin.qq.com/s/4asCROTltqXgnH-WjoHOCQ)
 
 
 
