@@ -11,7 +11,7 @@
 
 ## 前言
 
-相信即使你是第一次听说消息中间件的概念，通过上一篇文章《[十分钟入门消息中间件](https://blog.csdn.net/kingcoding/article/details/107171107)》的介绍，现在应该知道什么是 MQ ，为什么要使用 MQ 了。
+相信即使你是第一次听说消息中间件的概念，通过上一篇文章《[十分钟入门消息中间件](https://mp.weixin.qq.com/s/d_C9ghYnkQ11dL33IxAYaQ)》的介绍，现在应该知道什么是 MQ ，为什么要使用 MQ 了。
 
 
 
