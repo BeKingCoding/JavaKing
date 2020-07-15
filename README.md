@@ -29,6 +29,7 @@
   - [串行、并行、并发，别再傻傻分不清了！](https://mp.weixin.qq.com/s/BSXY6fpaSK6xQhmKrNkd1w)
   - [这是一篇硬核 AOP 解说！](https://mp.weixin.qq.com/s/ZlN9-FvljYemdzYKmbV3pg)
   - [大白话设计模式七大原则](https://mp.weixin.qq.com/s/7DqrhQfFPVM_xKdnvLBGZQ)
+  - [线程池你真的懂了吗](https://mp.weixin.qq.com/s/3HQiL3bft7UQs8nLOHmTBA)
 
 - [高并发架构基石- MQ](https://github.com/BeKingCoding/JavaKing/tree/master/MQ)
   - [十分钟入门消息中间件](https://mp.weixin.qq.com/s/vemmwC5EMcK9SrgoIJmJzA)
