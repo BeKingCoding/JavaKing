@@ -31,6 +31,7 @@
   - [大白话设计模式七大原则](https://mp.weixin.qq.com/s/7DqrhQfFPVM_xKdnvLBGZQ)
   - [线程池你真的懂了吗](https://mp.weixin.qq.com/s/3HQiL3bft7UQs8nLOHmTBA)
   - [肝完这篇垃圾回收，和面试官扯皮不怕了](https://mp.weixin.qq.com/s/AW2tHoAmrD7KbxCbjcRLIw)
+  - [重大事故！线上系统频繁卡死，凶手竟然是 Full GC ？](https://mp.weixin.qq.com/s/LIyyZkzdvP5BZNtZ-N7Zig)
   
 
 - [高并发架构基石- MQ](https://github.com/BeKingCoding/JavaKing/tree/master/MQ)
