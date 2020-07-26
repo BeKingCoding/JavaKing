@@ -52,6 +52,9 @@
 
 - [系统设计](https://github.com/BeKingCoding/JavaKing/tree/master/design)
   - [四种经典限流算法，确保不溢出！](https://mp.weixin.qq.com/s/4asCROTltqXgnH-WjoHOCQ)
+  
+- [简历篇](https://github.com/BeKingCoding/JavaKing/tree/master/Resume)
+  - [看过华科研究生学妹的简历后，我发现了几个问题](https://mp.weixin.qq.com/s/a8j_iQhURfiwIGPq6_fCLA)
 
 
 
