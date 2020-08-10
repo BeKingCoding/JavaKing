@@ -46,7 +46,7 @@
   - [还在纠结秒杀？看看 MQ 如何搞定](https://mp.weixin.qq.com/s/d_C9ghYnkQ11dL33IxAYaQ)
   - [消息中间件的正确打开方式](https://mp.weixin.qq.com/s/rHHyNcLcoOIh9vNhN-d-Yw)
   - [不要和陌生人说话，消息中间件之 Topic](https://mp.weixin.qq.com/s/W9L8IqyPwHgr1mlBh4H58A)
- 
+  - [RocketMQ 的核心 NameServer](https://mp.weixin.qq.com/s/GnYREhpj9-sqardISamp8Q)
 
 - [数据库](https://github.com/BeKingCoding/JavaKing/tree/master/MySQL)
   - [MySQL数据引擎，12缸就是猛！](https://mp.weixin.qq.com/s/useH8SiOUng3nu-V4X8Ykw)
